@@ -8,3 +8,4 @@
 - London
 - Okinawa
 - America
+- Any small island in the sea
