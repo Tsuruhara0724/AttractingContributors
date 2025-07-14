@@ -1,5 +1,14 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please tell me your favorite streamer is!
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of streamer
+- Taiji
+- Oniya
+- Junichi Kato
+- Mokou
+- Futonchan
+- Shaka
+- Hanjo
+- Oechan
+- Kosuke
+- P-P
+
